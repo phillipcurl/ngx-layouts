@@ -1,6 +1,6 @@
 {
   "name": "ngx-layouts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A set of functional container components for creating flexbox-based layouts in Angular apps",
   "main": "./dist/umd/ngx-layouts.js",
   "module": "./dist/esm/src/index.js",
